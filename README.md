@@ -171,3 +171,4 @@ See the [LICENSE](LICENSE) file for more details.
 [github-stars-shield]: https://img.shields.io/github/stars/aaPanel/BillionMail?color=%231890FF&style=flat-square   
 [license-shield]: https://img.shields.io/github/license/aaPanel/BillionMail
 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
